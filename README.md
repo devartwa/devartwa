@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devartwa&label=Profile%20views&color=0e75b6&style=flat" alt="devartwa" /> </p>
 
-- 💻 I'm like work with **JavaScript, React Native, HTML, CSS**
+- 💻. I'm like work with **JavaScript, React Native, HTML, CSS**
 
-- 🌱 I’m currently learning **TypeScript & TDD**
+- 🌱  I’m currently learning **TypeScript & TDD**
 
-- 💬 Ask me about **Movies, games & musics**
+- 💬  Ask me about **Movies, games & musics**
 
-- 📫 How to reach me **arthurbuenoneto@gmail.com**
+- 📫  How to reach me **arthurbuenoneto@gmail.com**
 
-- ⚡ Fun fact **Humans are the only animals that enjoy spicy foods 🤣**
+- ⚡  Fun fact **Humans are the only animals that enjoy spicy foods 🤣**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
