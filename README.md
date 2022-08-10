@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devartwa&label=Profile%20views&color=0e75b6&style=flat" alt="devartwa" /> </p>
 
-- 💻 ┇ I'm like work with **JavaScript, React Native, HTML, CSS**
+- 💻 ┇ I like work with **Typescript, JavaScript, React, React Native, HTML, CSS, Animations**
 
-- 🌱 ┇ I’m currently learning **TypeScript & TDD**
+- 🌱 ┇ I’m currently learning **Node & TDD**
 
 - 💬 ┇ Ask me about **Movies, games & musics**
 
