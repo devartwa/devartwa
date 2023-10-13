@@ -1,4 +1,4 @@
-![Introduction](https://github.com/devartwa/devartwa/blob/master/carbon.png?raw=true)
+![Introduction](https://github.com/devartwa/devartwa/blob/master/carbon.png)
 
 ### Tech Stack
 
