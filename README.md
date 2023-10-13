@@ -7,9 +7,4 @@
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
 
-![Shivam's github stats](https://github-readme-stats.vercel.app/api?username=devartwa&show_icons=true&theme=dark)
-
-<!--START_SECTION:activity-->
-
-1. 💪 Opened PR [#2](https://github.com/zatch3301/RollTheDice/pull/2) in [zatch3301/RollTheDice](https://github.com/zatch3301/RollTheDice)
-   <!--END_SECTION:activity-->
+![Devartwa's github stats](https://github-readme-stats.vercel.app/api?username=devartwa&show_icons=true&theme=dark)
